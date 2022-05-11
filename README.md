@@ -3,6 +3,8 @@ Python notebook for my submission to the introductory Kaggle datascience competi
 
 The accuracy of this my submission was 0.78468.
 
+In this repository I have also included the train and test data from Kaggle.
+
 From Kaggle:
 "In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
